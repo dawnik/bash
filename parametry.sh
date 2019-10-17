@@ -19,5 +19,3 @@ echo numer procesu: $$
 
 
 
-#https://developer.ibm.com/tutorials/l-bash-parameters/
-#https://likegeeks.com/write-shell-script/
